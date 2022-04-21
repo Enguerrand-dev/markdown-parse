@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/marked": "^4.0.3",
     "html-react-parser": "^1.4.11",
     "marked": "^4.0.14",
     "next": "latest",
